@@ -4,7 +4,7 @@ Udacity's Deep Learning Nanodegree project files and notes.
 
 This repository contains project files for [Udacity's Depp Learning Engineer Nanodegree program](https://www.udacity.com/course/deep-learning-nanodegree--nd101).
 
-Started Date: Aug. 2017
+Date: Aug. 2017
 
 ## Program Outline:
 
